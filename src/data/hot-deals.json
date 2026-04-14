@@ -1,0 +1,98 @@
+[
+  {
+    "id": "beyonce-paris-2026",
+    "title": "סופ\"ש ביונסה בפריז",
+    "destination": "פריז, צרפת",
+    "event": {
+      "name": "Beyoncé — Renaissance World Tour",
+      "type": "concert",
+      "date": "2026-06-20",
+      "venue": "Stade de France"
+    },
+    "image": "/images/paris.jpg",
+    "priceFrom": 2200,
+    "currency": "EUR",
+    "durationDays": 3,
+    "highlights": ["טיסה ישירה מתל אביב", "מלון 4 כוכבים ליד שאנז אליזה", "כרטיס להופעה כלול"]
+  },
+  {
+    "id": "elclasico-madrid-2026",
+    "title": "אל קלאסיקו במדריד",
+    "destination": "מדריד, ספרד",
+    "event": {
+      "name": "ריאל מדריד נגד ברצלונה",
+      "type": "sport",
+      "date": "2026-05-15",
+      "venue": "Santiago Bernabéu"
+    },
+    "image": "/images/madrid.jpg",
+    "priceFrom": 1800,
+    "currency": "EUR",
+    "durationDays": 4,
+    "highlights": ["טיסה + מלון במרכז העיר", "כרטיס למשחק", "סיור בעיר כלול"]
+  },
+  {
+    "id": "coldplay-london-2026",
+    "title": "קולדפליי בלונדון",
+    "destination": "לונדון, אנגליה",
+    "event": {
+      "name": "Coldplay — Music of the Spheres",
+      "type": "concert",
+      "date": "2026-07-10",
+      "venue": "Wembley Stadium"
+    },
+    "image": "/images/london.jpg",
+    "priceFrom": 2500,
+    "currency": "EUR",
+    "durationDays": 4,
+    "highlights": ["טיסה ישירה", "מלון 4 כוכבים באזור וסט אנד", "כרטיס VIP להופעה"]
+  },
+  {
+    "id": "champions-league-milan-2026",
+    "title": "גמר ליגת האלופות במילאנו",
+    "destination": "מילאנו, איטליה",
+    "event": {
+      "name": "UEFA Champions League Final",
+      "type": "sport",
+      "date": "2026-05-30",
+      "venue": "San Siro"
+    },
+    "image": "/images/milan.jpg",
+    "priceFrom": 3200,
+    "currency": "EUR",
+    "durationDays": 3,
+    "highlights": ["טיסה + העברות", "מלון 5 כוכבים", "כרטיס לגמר"]
+  },
+  {
+    "id": "musical-westend-2026",
+    "title": "מחזמר בווסט אנד",
+    "destination": "לונדון, אנגליה",
+    "event": {
+      "name": "The Phantom of the Opera",
+      "type": "theater",
+      "date": "2026-08-05",
+      "venue": "Her Majesty's Theatre"
+    },
+    "image": "/images/london-theater.jpg",
+    "priceFrom": 1500,
+    "currency": "EUR",
+    "durationDays": 3,
+    "highlights": ["טיסה ישירה", "מלון בקובנט גארדן", "כרטיס שורה ראשונה"]
+  },
+  {
+    "id": "tomorrowland-belgium-2026",
+    "title": "טומורולנד בבלגיה",
+    "destination": "בום, בלגיה",
+    "event": {
+      "name": "Tomorrowland Festival 2026",
+      "type": "festival",
+      "date": "2026-07-17",
+      "venue": "De Schorre"
+    },
+    "image": "/images/tomorrowland.jpg",
+    "priceFrom": 2800,
+    "currency": "EUR",
+    "durationDays": 5,
+    "highlights": ["טיסה לבריסל", "אוהל VIP בפסטיבל", "כרטיס 3 ימים"]
+  }
+]
